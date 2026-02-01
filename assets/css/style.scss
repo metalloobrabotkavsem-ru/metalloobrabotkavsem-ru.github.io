@@ -1,0 +1,9 @@
+---
+---
+@import "{{ site.theme }}";
+
+.project-name2 {
+    @extend .project-name;
+    font-family: Unbounded, serif;
+    color: rgb(194, 194, 194);
+}
