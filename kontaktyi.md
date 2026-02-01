@@ -6,7 +6,7 @@ layout: default
 
 Оставить заявку на металлообработку Вы можете по нашим контактам.
 
-Телефон: +7 (123) 456-78-90.
+Телефон: <a href="tel:+79278111535">+7 (927) 811-15-35</a>.
 
 Адрес электронной почты: <a href="mailto:m@metalloobrabotkavsem.ru">m@metalloobrabotkavsem.ru</a>.
 
